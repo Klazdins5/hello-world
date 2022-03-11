@@ -1,5 +1,5 @@
 # Hello 
-My name is **Kārlis**
+My name is *Kārlis*
 ---
 ## I like
 - food
