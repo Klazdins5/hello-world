@@ -1,12 +1,8 @@
-# H1 
-Hello 
-# H1
+# Hello 
 My name is **bold text** Kārlis **bold text**
 ---
-# H2
-I like 
-# H2
+## I like
 - food
 - cars 
 - cats 
-*italicized text* ok, bye now 😺 *italicized text*
+### *italicized text* ok, bye now 😺 *italicized text*
