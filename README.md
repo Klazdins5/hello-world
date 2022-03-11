@@ -5,4 +5,4 @@ My name is **bold text** Kārlis **bold text**
 - food
 - cars 
 - cats 
-### *italicized text* ok, bye now 😺 *italicized text*
+### *ok, bye now 😺*
